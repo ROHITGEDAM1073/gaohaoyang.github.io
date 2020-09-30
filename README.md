@@ -79,7 +79,7 @@ I use *[Masonry](http://masonry.desandro.com/)* to rewrite the waterfall respons
 
 ### About
 
-The user can write some introduction about theirselves and their site with `markdown` syntax.
+The user can write some introduction about themselves and their site with `markdown` syntax.
 
 ### Comments
 
